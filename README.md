@@ -43,5 +43,5 @@ The following questions were answered using SparkSQL:
 ## Summary
 
 Although the the runtime difference were minor, the parquet runtime demonstrated a faster overall performance compared to both uncached and cached table data.
-* The cached runtime of 0.880 seconds was faster than the uncached runtime of 1.102 seconds.
-* The parquet runtime of 1.054 seconds was slighly faster than the cached runtime of 0.880 seconds.
+* The cached runtime of 1.233 seconds was faster than the uncached runtime of 1.259 seconds.
+* The parquet runtime of 0.946 seconds was slighly faster than the cached runtime of 1.233 seconds.
